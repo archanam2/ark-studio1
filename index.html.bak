@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ark Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+		<header
+        <img src="billboard.jpg" height="600px" width="1300px"alt="">
+        <nav>
+            <ul>
+                <li><a href="">ourstory</a></li>
+                <li><a href="">products</a></li>
+                <li><a href="">journal</a></li>
+                <li><a href="">contacts</a></li>
+            </ul>
+        </nav>
+        <div class="transparentnav">
+
+        </div>
+    </div>
+    
+</body>
+</html>
