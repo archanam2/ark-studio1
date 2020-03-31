@@ -20,7 +20,7 @@
     padding: 0;
     list-style: none;
 }
-.footer-section  #comp_list .comp_item_1 .comp_item_2 .comp_item_3 .comp_item_4{
+.footer-section  #comp_list .comp_item_1 {
     margin: 10px;
  
     text-decoration: none;
@@ -28,6 +28,31 @@
     color: white;
     line-height: 10px;
 
+}
+.comp_item_2{
+    margin: 10px;
+ 
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    line-height: 10px;
+
+}
+.comp_item_3{
+    margin: 10px;
+ 
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    line-height: 10px;
+}
+.comp_item_4{
+    margin: 10px;
+ 
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    line-height: 10px;
 }
 
 .footer-section #sup_list{
