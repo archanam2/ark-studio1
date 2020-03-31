@@ -125,12 +125,12 @@ display: flex;
   height:500px;
   width: 350px;
 }
-.servicework{
+.recent_work{
   height: 500px;
   display: flex;
    
 }
-.servicework img{
+.recent_work img{
   flex: 1;
 }
 .testimonals wrapper{
