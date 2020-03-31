@@ -1,138 +1,99 @@
-.footer_widget{
-   padding-left: 100px;
-   padding-right: 100px;
-    color: white;
-    width: auto;
-    margin: 0 auto;
-}
-.footer_widget .top{
-    text-align: center;
-        opacity: 0.7;
-    height: 50px;
-    }
-.footer-section{
-    width: 25%;
-    float: left;
-    text-align: left;
-    color: #ffffff;}
-.footer-section #comp_list{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-.footer-section  #comp_list #comp_item_1 {
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
-}
-#comp_item_2{
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
-}
-#comp_item_3{
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-}
-#comp_item_4{
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
 }
 
-.footer-section #sup_list{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-.footer-section  #sup_list #sup_item_1 {
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_2 {
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_3{
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_4{
-    margin: 10px;
- 
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    line-height: 10px;
-
+body {
+    line-height:1;
 }
 
-
-footer{
-    width: 1400px;
-    height: 400px;
-    position: fixed;
-    bottom: 0;
-    z-index: -1;
-    background-color: #262626;
+img{
+    max-width: 100%;
 }
-.rights{
- text-align:center;
-    color: #fff;
-    background-color: rgb(36, 34, 34);
-    padding-left: 10px;
-    padding-top: 40px;
-    padding-bottom:20px;
-}
-/* .footer-section p{
-    width: 70% ;
-} */
 
-
-
-/* footer{
-    background: black;
-    color: white;
-    height: 400px;
-    
-     
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
 }
-footer .footer_widget{
-        height: 350px;
-        display: flex;
-    
+
+nav ul {
+    list-style:none;
 }
-footer .footer_widget .footer-section{
-    flex: 1;
-    border: white;
-} */
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    color: #ffffff;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000; 
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
