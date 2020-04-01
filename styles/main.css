@@ -58,17 +58,18 @@
     padding-top: 20px;
     height: 60px;
     justify-items: right;
-    width: 100%;
+    width: 1300px;
 } 
 
 .cta :hover{
    height:20px;
-   width:100%;
+   width:auto;
     background-color: aqua;
 
 }
 
 .cta #cta_link { 
+ 
     justify-items: right;
     margin-left:40%;
     width: 200px; 
@@ -117,7 +118,7 @@
  }
  #flex{
 width:1200px;
-height:500px;
+height:300px;
 display: flex;
 
  }
@@ -186,6 +187,7 @@ display: flex;
 .footer_widget{
   height: 200px;
 background-color: rgb(36, 34, 34);
+padding-top: 0;
 
 }
 .box-2{
@@ -199,19 +201,19 @@ background-color: rgb(36, 34, 34);
 
 }
 .box-2 #locations{
-  padding-top: 10px;
+  padding-top: 0px;
   margin: 20px;
 }
 .box-2 #support{
-padding-top: 10px;
+padding-top: 0px;
   margin: 20px;
 }
 .box-2 #company{
-padding-top: 10px;   
+padding-top: 0px;   
 margin: 20px;
 }
 .box-2 #ark{
-padding-top: 10px;
+padding-top: 0px;
   margin:20px;
 }
 .box-2 #comp_list li{
@@ -254,142 +256,4 @@ padding-left: 10px;
 padding-top: 40px;
 padding-bottom:20px;
 }
-/* .footer_widget{
-  padding-left: 100px;
-  padding-right: 100px;
-   color: white;
-   width: auto;
-   margin: 0 auto;
-}
-.footer_widget .top{
-   text-align: center;
-       opacity: 0.7;
-   height: 50px;
-   }
-.footer-section{
-   width: 25%;
-   float: left;
-   text-align: left;
-   color: #ffffff;}
-.footer-section #comp_list{
-   margin: 0;
-   padding: 0;
-   list-style: none;
-}
-.footer-section  #comp_list #comp_item_1 {
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-.footer-section  #comp_list #comp_item_2{
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-.footer-section  #comp_list #comp_item_3{
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-}
-.footer-section  #comp_list #comp_item_4{
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-}
-
-.footer-section #sup_list{
-   margin: 0;
-   padding: 0;
-   list-style: none;
-}
-.footer-section  #sup_list #sup_item_1 {
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_2 {
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_3{
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-.footer-section  #sup_list #sup_item_4{
-   margin: 10px;
-
-   text-decoration: none;
-   font-size: 20px;
-   color: white;
-   line-height: 10px;
-
-}
-
-
-footer{
-   width: 1400px;
-   height: 400px;
-   position: fixed;
-   bottom: 0;
-   z-index: -1;
-   background-color: #262626;
-}
-.rights{
-text-align:center;
-   color: #fff;
-   background-color: rgb(36, 34, 34);
-   padding-left: 10px;
-   padding-top: 40px;
-   padding-bottom:20px;
-} */
-/* .footer-section p{
-   width: 70% ;
-} */
-
-
-
-/* footer{
-   background: black;
-   color: white;
-   height: 400px;
-   
-    
-}
-footer .footer_widget{
-       height: 350px;
-       display: flex;
-   
-}
-footer .footer_widget .footer-section{
-   flex: 1;
-   border: white;
-} */
 
