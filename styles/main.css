@@ -184,6 +184,77 @@ display: flex;
   padding-left:80px;
 }
 .footer_widget{
+  height: 200px;
+background-color: rgb(36, 34, 34);
+
+}
+.box-2{
+float: left;
+width: 25%;
+text-align:center;
+list-style-type: none;
+color:#fff;
+text-decoration: none;
+background-color: rgb(36, 34, 34);
+
+}
+.box-2 #locations{
+  padding-top: 10px;
+  margin: 20px;
+}
+.box-2 #support{
+padding-top: 10px;
+  margin: 20px;
+}
+.box-2 #company{
+padding-top: 10px;   
+margin: 20px;
+}
+.box-2 #ark{
+padding-top: 10px;
+  margin:20px;
+}
+.box-2 #comp_list li{
+  text-decoration: none;
+  list-style: none;
+}
+.box-2 #comp_list li a{
+  text-decoration: none;
+  color: white;
+}
+.box-2 #sup_list li{
+  list-style: none;
+ 
+}
+.box-2 #sup_list li a{
+  text-decoration: none;
+  color: white;
+}
+.box-2 img{
+ margin-top:20px;
+}
+.box-2 #sup_list #sup_item_3{
+padding-bottom:31px;
+}
+.box-2 #comp_list #comp_item_4{
+padding-bottom: 14px;
+}
+.box-2 #ark-para{
+padding-bottom: 31px;
+}
+.clear{
+clear: both;
+}
+.rights{
+
+text-align:center;
+color: #fff;
+background-color: rgb(36, 34, 34);
+padding-left: 10px;
+padding-top: 40px;
+padding-bottom:20px;
+}
+/* .footer_widget{
   padding-left: 100px;
   padding-right: 100px;
    color: white;
@@ -298,7 +369,7 @@ text-align:center;
    padding-left: 10px;
    padding-top: 40px;
    padding-bottom:20px;
-}
+} */
 /* .footer-section p{
    width: 70% ;
 } */
